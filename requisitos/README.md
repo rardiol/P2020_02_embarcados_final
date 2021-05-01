@@ -11,7 +11,7 @@
 * Os elevadores devem parar apenas em seus destinos ativos.
 * Se um elevador não tiver nenhum destino ativo, ele deve permanecer no mesmo andar com as portas abertas.
 * Quando um botão externo é apertado, o sistema deve designar esse andar como destino ativo de um elevador.
-** Essa designação deve ter o objetivo de melhorar a eficiência do sistema, preferindo manter elevadores em movimento na mesma direção.
+* Essa designação deve ter o objetivo de melhorar a eficiência do sistema, preferindo manter elevadores em movimento na mesma direção.
 
 
 
