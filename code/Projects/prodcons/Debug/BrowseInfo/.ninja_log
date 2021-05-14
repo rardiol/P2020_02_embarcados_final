@@ -1,0 +1,16 @@
+# ninja log v5
+47	506	6416097410000000	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/driverleds.xcl	aeec52758be13dbb
+1	533	6416097410000000	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.xcl	4ec64ddbdee930b2
+517	647	6416097420000000	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/RTX_Config.xcl	7fdfef8b99f86eaf
+542	691	6416097420000000	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/rtx_lib.xcl	8edcbb5dbdb13808
+699	972	6416097424317437	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/driverleds.pbi	13d0a9918c156172
+657	1020	6416097424851339	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/RTX_Config.pbi	3e259970ef966b88
+976	1103	6416097425697692	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/rtx_lib.pbi	286432103b9752d0
+1024	1155	6416097420000000	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/system_TM4C1294_TW.xcl	66da04e6722a9815
+1106	1193	6416097426635238	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.pbi	7b2d510c9f69ac4
+1196	1257	6416097427169143	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons_part0.pbi	e3500473818a8445
+1261	1291	6416097427637872	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons_part1.pbi	e9a2fb850583522e
+1165	1339	6416097428015517	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/system_TM4C1294_TW.pbi	563edf58c699dd4
+1342	1377	6416097428484249	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons_part2.pbi	a22a8d6eee95dde3
+1380	1432	6416097429018097	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.pbd	c7c56d854f82ce62
+1437	3323	6416097447515293	C:/Users/Ardissone/ric/embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.pbw	47b15799d795919a

@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\bin\armLMIFTDI.dll" 
+
+"C:\Users\Ardissone\ric\EK-TM4C1294_RTOS_IAR8\Projects\tarefas\ewarm\Exe\tarefas.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\config\debugger\TexasInstruments\TM4C129.dmac" 
+
+--flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\config\flashloader\TexasInstruments\FlashTC4_NC.board" 
+
+
+
+

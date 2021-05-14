@@ -1,0 +1,13 @@
+C:\Users\Ardissone\ric\EK-TM4C1294_RTOS_IAR8\Projects\tarefas\Debug\BrowseInfo\driverleds.pbi: \
+  C:\Users\Ardissone\ric\EK-TM4C1294_RTOS_IAR8\Projects\drivers\driverleds.h \
+  C:\Users\Ardissone\ric\EK-TM4C1294_RTOS_IAR8\Projects\tarefas\..\..\TivaWare_C_Series-2.1.4.178\driverlib\gpio.h \
+  C:\Users\Ardissone\ric\EK-TM4C1294_RTOS_IAR8\Projects\tarefas\..\..\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h \
+  C:\Users\Ardissone\ric\EK-TM4C1294_RTOS_IAR8\Projects\tarefas\..\..\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdbool.h \
+  C:\Users\Ardissone\ric\EK-TM4C1294_RTOS_IAR8\Projects\drivers\driverleds.c

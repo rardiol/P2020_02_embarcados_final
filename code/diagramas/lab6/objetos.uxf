@@ -1,0 +1,114 @@
+<diagram program="umletino" version="14.3.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>300</x><y>569</y><w>130</w><h>90</h></coordinates><panel_attributes>Controller
+
+customelement=
+drawRectangle(0,0,10,height)
+drawRectangle(width-10,0,width,height)
+drawRectangle(10,20,width-20,height) 
+
+ //fg= bg= lt= lw= //Parameters (x, y, width, height)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>690</x><y>469</y><w>90</w><h>90</h></coordinates><panel_attributes>LED1
+
+customelement=
+drawRectangle(0,0,10,height)
+drawRectangle(width-10,0,width,height)
+drawRectangle(10,20,width-20,height) 
+
+ //fg= bg= lt= lw= //Parameters (x, y, width, height)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>510</x><y>469</y><w>80</w><h>80</h></coordinates><panel_attributes>// Boundary Element
+	  
+customelement=
+// Boundary Symbol
+drawLine(0,0,20,0)
+drawLine(0,height,20,height)
+drawRectangle(20,0,60,height)
+drawRectangle(40,0,40,height) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>420</x><y>489</y><w>130</w><h>110</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;put&gt;&gt;</panel_attributes><additional_attributes>90;10;10;90</additional_attributes></element><element><id>Relation</id><coordinates><x>580</x><y>499</y><w>130</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;get&gt;&gt;</panel_attributes><additional_attributes>10;10;110;20</additional_attributes></element><element><id>Relation</id><coordinates><x>770</x><y>479</y><w>230</w><h>70</h></coordinates><panel_attributes>lt=&lt;-
+&lt;&lt;rd/wr&gt;&gt;</panel_attributes><additional_attributes>210;50;10;10</additional_attributes></element><element><id>Text</id><coordinates><x>510</x><y>589</y><w>80</w><h>80</h></coordinates><panel_attributes>// Boundary Element
+	  
+customelement=
+// Boundary Symbol
+drawLine(0,0,20,0)
+drawLine(0,height,20,height)
+drawRectangle(20,0,60,height)
+drawRectangle(40,0,40,height) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>420</x><y>609</y><w>110</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;put&gt;&gt;</panel_attributes><additional_attributes>90;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>770</x><y>589</y><w>110</w><h>70</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;acquire&gt;&gt;</panel_attributes><additional_attributes>90;10;10;50</additional_attributes></element><element><id>UMLClass</id><coordinates><x>690</x><y>589</y><w>90</w><h>90</h></coordinates><panel_attributes>LED2
+
+customelement=
+drawRectangle(0,0,10,height)
+drawRectangle(width-10,0,width,height)
+drawRectangle(10,20,width-20,height) 
+
+ //fg= bg= lt= lw= //Parameters (x, y, width, height)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>580</x><y>619</y><w>130</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;get&gt;&gt;</panel_attributes><additional_attributes>10;10;110;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>980</x><y>524</y><w>90</w><h>80</h></coordinates><panel_attributes>GPIO LED 1/2
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>840</x><y>494</y><w>240</w><h>210</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>900</x><y>544</y><w>100</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;protects&gt;&gt;</panel_attributes><additional_attributes>80;10;10;20</additional_attributes></element><element><id>Text</id><coordinates><x>810</x><y>779</y><w>90</w><h>100</h></coordinates><panel_attributes>// Boundary Element
+	  LED3/4 (Mutex)
+customelement=
+// Boundary Symbol
+drawArc(25,20,40,50,0,180,true) transparency=100
+
+drawRectangle(20, 45, 50, 50)
+	</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>480</x><y>709</y><w>80</w><h>80</h></coordinates><panel_attributes>// Boundary Element
+	  
+customelement=
+// Boundary Symbol
+drawLine(0,0,20,0)
+drawLine(0,height,20,height)
+drawRectangle(20,0,60,height)
+drawRectangle(40,0,40,height) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>420</x><y>649</y><w>100</w><h>90</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;put&gt;&gt;</panel_attributes><additional_attributes>60;70;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>550</x><y>739</y><w>130</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;get&gt;&gt;</panel_attributes><additional_attributes>10;10;110;20</additional_attributes></element><element><id>Relation</id><coordinates><x>740</x><y>749</y><w>110</w><h>90</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;acquire&gt;&gt;</panel_attributes><additional_attributes>90;70;10;10</additional_attributes></element><element><id>Text</id><coordinates><x>480</x><y>829</y><w>80</w><h>80</h></coordinates><panel_attributes>// Boundary Element
+	  
+customelement=
+// Boundary Symbol
+drawLine(0,0,20,0)
+drawLine(0,height,20,height)
+drawRectangle(20,0,60,height)
+drawRectangle(40,0,40,height) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>390</x><y>649</y><w>130</w><h>210</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;put&gt;&gt;</panel_attributes><additional_attributes>90;190;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>740</x><y>839</y><w>110</w><h>60</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;acquire&gt;&gt;</panel_attributes><additional_attributes>90;10;10;40</additional_attributes></element><element><id>UMLClass</id><coordinates><x>660</x><y>829</y><w>90</w><h>90</h></coordinates><panel_attributes>LED4
+
+customelement=
+drawRectangle(0,0,10,height)
+drawRectangle(width-10,0,width,height)
+drawRectangle(10,20,width-20,height) 
+
+ //fg= bg= lt= lw= //Parameters (x, y, width, height)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>550</x><y>859</y><w>130</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;get&gt;&gt;</panel_attributes><additional_attributes>10;10;110;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>950</x><y>794</y><w>90</w><h>80</h></coordinates><panel_attributes>GPIO LED 3/4
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>810</x><y>734</y><w>240</w><h>210</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>870</x><y>834</y><w>100</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;protects&gt;&gt;</panel_attributes><additional_attributes>80;10;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>660</x><y>709</y><w>90</w><h>90</h></coordinates><panel_attributes>LED3
+
+customelement=
+drawRectangle(0,0,10,height)
+drawRectangle(width-10,0,width,height)
+drawRectangle(10,20,width-20,height) 
+
+ //fg= bg= lt= lw= //Parameters (x, y, width, height)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>770</x><y>519</y><w>110</w><h>60</h></coordinates><panel_attributes>lt=&lt;-
+m1=&lt;&lt;acquire&gt;&gt;</panel_attributes><additional_attributes>90;40;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>770</x><y>589</y><w>230</w><h>80</h></coordinates><panel_attributes>lt=&lt;-
+&lt;&lt;rd/wr&gt;&gt;</panel_attributes><additional_attributes>210;10;10;60</additional_attributes></element><element><id>Relation</id><coordinates><x>740</x><y>699</y><w>230</w><h>120</h></coordinates><panel_attributes>lt=&lt;-
+&lt;&lt;rd/wr&gt;&gt;</panel_attributes><additional_attributes>210;100;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>740</x><y>869</y><w>230</w><h>70</h></coordinates><panel_attributes>lt=&lt;-
+&lt;&lt;rd/wr&gt;&gt;</panel_attributes><additional_attributes>210;10;10;50</additional_attributes></element><element><id>Text</id><coordinates><x>840</x><y>509</y><w>80</w><h>100</h></coordinates><panel_attributes>// Boundary Element
+	  LED1/2 (Mutex)
+customelement=
+// Boundary Symbol
+drawArc(25,20,40,50,0,180,true) transparency=100
+
+drawRectangle(20, 45, 50, 50)
+	</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>180</x><y>569</y><w>80</w><h>80</h></coordinates><panel_attributes>// Control Element
+	     
+customelement=
+// Control Symbol
+drawLine(0, height, 0, 20)
+drawLine(0, 20, 30, 40)
+drawLine(0, 55, 30, 40)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>600</y><w>100</w><h>40</h></coordinates><panel_attributes>&lt;&lt;ISR&gt;&gt;
+Buttons</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>90</x><y>600</y><w>110</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+&lt;&lt;set&gt;&gt;</panel_attributes><additional_attributes>90;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>200</x><y>600</y><w>120</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+&lt;&lt;wait&gt;&gt;</panel_attributes><additional_attributes>100;20;10;20</additional_attributes></element></diagram>
